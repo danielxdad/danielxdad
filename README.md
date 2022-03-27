@@ -1,6 +1,6 @@
-## 👋 mi nombre es Daniel López
+## Hola, soy Daniel López
 
-Desarrollador de software o eso intento :smile:, con más de 10 año de experiencia, esencialmente en el área web.
+Desarrollador de software (o eso intento :smile:), con más de 10 año de experiencia, esencialmente en el área web.
 
 - 🔭 Trabajando en **CodigoJS**
 - 💬 Python, Django, JS/TS, Vue.js y Quasar framework es mi día a día
@@ -24,23 +24,11 @@ Desarrollador de software o eso intento :smile:, con más de 10 año de experien
 - [copyer](https://github.com/danielxdad/copyer): Copia archivos de una PC a un fichero tar y crea un snapshot del FS a XML.
 - faltan algunos por subir :smile:
 
+### Gists:
+- [2FA TOTP QR en django-restframework](https://gist.github.com/danielxdad/a2c477c0f715277ab543ee5e93a8876a)
+
 ## Contacto:
 
 - [Twitter](https://twitter.com/danielxdad/)
 - [Linkedin](https://www.linkedin.com/in/danielxdad/)
 - [Telegram](https://t.me/danielxdad)
-
-<!--
-**danielxdad/danielxdad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
