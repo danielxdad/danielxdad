@@ -23,6 +23,7 @@ Desarrollador de software (o eso intento :smile:), con más de 10 año de experi
 - [mexitel](https://github.com/danielxdad/mexitel): Bot para obtener citas en el sitio de la embaja de México en Cuba.
 - [copyer](https://github.com/danielxdad/copyer): Copia archivos de una PC a un fichero tar y crea un snapshot del FS a XML.
 - [canvas](https://github.com/danielxdad/canvas): Playing with Canvas API, maths, shapes & colors for fun
+- [shellpipe](https://github.com/danielxdad/shellpipe): Remote control tool over named pipes for Microsoft Windows (C/C++)
 - faltan algunos por subir :smile:
 
 ### Gists:
