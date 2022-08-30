@@ -27,6 +27,8 @@ Desarrollador de software (o eso intento :smile:), con más de 10 año de experi
 
 ### Gists:
 - [2FA TOTP QR en django-restframework](https://gist.github.com/danielxdad/a2c477c0f715277ab543ee5e93a8876a)
+- [Partial search of clients with multiple fields combinations](https://gist.github.com/danielxdad/d77a880b8cf2cc15c16c1a00582c35ba)
+- [Give me the movies link to download with wget](https://gist.github.com/danielxdad/0953570980f44ba768cbc332cfbad822)
 
 ## Contacto:
 
