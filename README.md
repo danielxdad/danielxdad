@@ -37,3 +37,8 @@ Desarrollador de software (o eso intento :smile:), con más de 10 año de experi
 - [Twitter](https://twitter.com/danielxdad/)
 - [Linkedin](https://www.linkedin.com/in/danielxdad/)
 - [Telegram](https://t.me/danielxdad)
+
+## Stats:
+![danielxdad GitHub stats](https://github-readme-stats.vercel.app/api?username=danielxdad&count_private=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielxdad&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
