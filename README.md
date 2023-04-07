@@ -18,6 +18,7 @@ Software developer (or so I try :smile:), with more than 10 years of experience,
 - [canvas](https://github.com/danielxdad/canvas): Playing with the Canvas API, maths, shapes & colors
 - [shellpipe](https://github.com/danielxdad/shellpipe): Remote control tool over named pipes for Microsoft Windows (C/C++)
 - [scraperrs](https://github.com/danielxdad/scraperrs): A basic Rust scraper for a specific web page and my first paid Rust app
+- [sorting_algs_rs](https://github.com/danielxdad/sorting_algs_rs): Sorting algorithms in Rust for learning purposes
 
 ### Some of my gists:
 - [2FA TOTP QR in django-restframework](https://gist.github.com/danielxdad/a2c477c0f715277ab543ee5e93a8876a)
@@ -34,6 +35,4 @@ Software developer (or so I try :smile:), with more than 10 years of experience,
 - [Twitter](https://twitter.com/danielxdad/), [Linkedin](https://www.linkedin.com/in/danielxdad/), [Telegram](https://t.me/danielxdad)
 
 ## Stats:
-![danielxdad GitHub stats](https://github-readme-stats.vercel.app/api?username=danielxdad&count_private=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielxdad&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![danielxdad GitHub stats](https://github-readme-stats.vercel.app/api?username=danielxdad&count_private=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielxdad&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
