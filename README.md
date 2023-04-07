@@ -6,12 +6,6 @@ Software developer (or so I try :smile:), with more than 10 years of experience,
 - 💬 Python, Django, JS/TS, Vue.js y Quasar framework it is my day to day.
 - 🌱 Learning about Rust and other things in my free time.
 
-### I have worked in:
-- [Site to book tourist accommodation in Cuba. (Django, JQuery y Bootstrap)](https://www.caribbeanbb.com/)
-- [Mobile App for synchronization of reservation calendars. (Django, Quasar framework)](https://app.syncbed.com/)
-- [Site for sale of house and apartments in Spain. (Django, Vue.js y Bootstrap)](https://www.housettel.com/)
-- [App para la gestión de comunidades en España. (Framework Django, Vue.js y Quasar)](https://intranet.carmencorona.com/)
-
 ### Some of my personal projects:
 - [mexitel](https://github.com/danielxdad/mexitel): Bot to get appointments on the site of the Mexican embassy in Cuba.
 - [copyer](https://github.com/danielxdad/copyer): Copy files from a PC to a tar file and create a snapshot of the file system to XML
@@ -30,6 +24,12 @@ Software developer (or so I try :smile:), with more than 10 years of experience,
 - [Modeling server requests with variable response times using variable number of workers...](https://gist.github.com/danielxdad/0cffa55402aa99a78ecb54c7de677ba7)
 - [Download all messages from all folders of an account in IMAP server](https://gist.github.com/danielxdad/45f6de73405e2f811d54833aa15edec4)
 - [Extract work's stats per each author in a git repo](https://gist.github.com/danielxdad/22319153247a0f7b3dac7bb7c1493235)
+
+### I have worked in:
+- [Site to book tourist accommodation in Cuba. (Django, JQuery y Bootstrap)](https://www.caribbeanbb.com/)
+- [Mobile App for synchronization of reservation calendars. (Django, Quasar framework)](https://app.syncbed.com/)
+- [Site for sale of house and apartments in Spain. (Django, Vue.js y Bootstrap)](https://www.housettel.com/)
+- [App for the management of communities in Spain. (Framework Django, Vue.js y Quasar)](https://intranet.carmencorona.com/)
 
 ## Contact:
 - [Twitter](https://twitter.com/danielxdad/), [Linkedin](https://www.linkedin.com/in/danielxdad/), [Telegram](https://t.me/danielxdad)
